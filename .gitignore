@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Packaged build output (keep the existing runnable JAR tracked)
+# shade/
+
+# Java / IDE
+*.class
+*.log
+.idea/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
